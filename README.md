@@ -13,4 +13,16 @@ If you are developing a production application, we recommend using TypeScript wi
 # Foodie-ala-eh
 this is a simple Website made with React. Powered by #TailwindCSS #Flowbite #FontAwesome #SliderJS 
 
-To clone the Repository 
+Clone the repo:
+$ git clone https://github.com/cassidoo/todometer.git
+Go to the project directory and install dependencies:
+$ cd todometer && npm install
+To show the Electron application window with your current build:
+
+$ npm run dev
+To build a production version:
+
+$ npm install
+$ npm run postinstall
+$ npm run pre-electron-pack
+$ npm run electron-pack
