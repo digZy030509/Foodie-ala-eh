@@ -17,8 +17,11 @@ Clone the repo:
 $ [git clone https://github.com/cassidoo/todometer.git](https://github.com/digZy030509/Foodie-ala-eh.git)
 Go to the project directory and install dependencies:
 $ cd Foodie-ala-eh
+
 $ npm install
+
 $ npx create-flowbite-react@latest
+
 $ npm install react-slider
 
 $ npm run dev
